@@ -2,6 +2,12 @@
 
 SnaptGPT allows you to automatically generate a ChatGPT response after taking a screenshot of a piece of text.
 
+# Requirements
+
+- Python 3.6+
+- macOS 10.15+
+- An OpenAI API key
+
 # Installation
 
 Clone the repository and install the dependencies:
