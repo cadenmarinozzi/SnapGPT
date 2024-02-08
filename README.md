@@ -13,7 +13,7 @@ SnaptGPT allows you to automatically generate a ChatGPT response after taking a 
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/nekumelon/SnapGPT.git
+git clone https://github.com/cadenmarinozzi/SnapGPT.git
 cd SnapGPT
 pip3 install -r requirements.txt
 ```
